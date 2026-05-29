@@ -42,6 +42,7 @@ Dataset Overview:
   Total sequences: 34
   Unique tasks: 10
   Total transitions: 156
+  Unique transition pairs: 79
 
 Sequence Length Statistics:
   Average: 4.5 tasks
