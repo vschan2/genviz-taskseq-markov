@@ -1,5 +1,7 @@
 # Task Sequence Analysis for Biodiversity Genomics Visualization Tools
 
+[![DOI](https://zenodo.org/badge/1252846967.svg)](https://doi.org/10.5281/zenodo.20438092)
+
 Markov chain analysis toolkit for analyzing task sequences from systematic literature review (SLR) data.
 
 **Title:** Domain-Task Mapping Framework for Multi-View Biodiversity Comparative Genomics Visualization: A Systematic Literature Review
