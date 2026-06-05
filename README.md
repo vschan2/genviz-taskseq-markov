@@ -8,8 +8,6 @@ Markov chain analysis toolkit for analyzing task sequences from systematic liter
 
 **Authors:** Vei Siang Chan, Farhan Bin Mohamed, Faezah Binti Mohd Salleh, Andres Iglesias, Alfie Abdul-Rahman, Marilyn Miga, Fallah H. Najjar, Chunqing Cao
 
-**For The Visual Computer Submission Requirement:** Chan, V. S., Mohamed, F. B., Salleh, F. B. M., Iglesias, A., Abdul-Rahman, A., Miga, M., Najjar, F. H., & Cao, C. (2026). Domain-Task Mapping Framework for Multi-View Biodiversity Comparative Genomics Visualization: A Systematic Literature Review. The Visual Computer. Manuscript submitted for review.
-
 ---
 
 ## What This Does
